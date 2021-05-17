@@ -1,16 +1,41 @@
 
 body {
-  background-color: #E8ECEF;
+ 
+  background-color: #809a9e;
+  background-image: url("https://www.transparenttextures.com/patterns/low-contrast-linen.png");
+  
 }
 
 .centered {
     padding-top: 200px;
     text-align: center;
+    background-color: #809a9e;
+background-image: url("https://www.transparenttextures.com/patterns/low-contrast-linen.png");
+
 }
 
 .secret-text {
   text-align: center;
   font-size: 2rem;
   color: #fff;
-  background-color: #000;
+ 
+  background-color: #809a9e;
+background-image: url("https://www.transparenttextures.com/patterns/low-contrast-linen.png");
+
+}
+
+footer {
+text-align: center;
+padding-top: 5rem;
+
+}
+
+.jumbotron {
+  background-color: #809a9e;
+  background-image: url("https://www.transparenttextures.com/patterns/low-contrast-linen.png");
+  
+}
+
+.fa-google{
+  color: #d6e6f2;
 }
