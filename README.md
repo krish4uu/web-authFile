@@ -32,8 +32,9 @@ https://user-images.githubusercontent.com/66221402/118565054-81985980-b73f-11eb-
 
 
 # Stored Data of two users
-1. First object shows the user data renders by the form.
-2. Second object shows the data render by the google-OAuth.
+- Robo 3T Screenshot
+  1. First object shows the user data renders by the form.
+  2. Second object shows the data render by the google-OAuth.
 
 <img width="1440" alt="usersData" src="https://user-images.githubusercontent.com/66221402/118564479-53664a00-b73e-11eb-81b7-239e1ac04974.png">
 
