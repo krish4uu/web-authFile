@@ -1,4 +1,4 @@
-# web-authFile 
+# Secrets 
 - The app is all about the web application where you submit your secrets and you can also see other secrets without knowing their names. 
 - App is focused on getting the user data and storing them into the database with hashing functionality.
 - Front-end uses the bootstap, css for styling components.
